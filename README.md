@@ -36,13 +36,6 @@ I enjoy creating modern web interfaces with clean design, smooth animation, and 
 
 ---
 
-## 📂 Featured Projects
-- 🍕 **Pizza Menu Website** — A modern and interactive pizza menu built with HTML, CSS, and smooth animations.  
-- 🎈 **Hari Anak Website** — A fun and colorful website to celebrate Children’s Day with engaging visuals.  
-- 🍩 **Donut Shop (Figma)** — UI/UX prototype design with a purple and pink theme, designed for a donut shop.  
-
----
-
 ## ⚙️ GitHub Stats
 
 <p align="center">
@@ -54,7 +47,7 @@ I enjoy creating modern web interfaces with clean design, smooth animation, and 
 
 ## 📫 Connect With Me
 🌐 [Portfolio Website](#)  
-📧 aniatunnikmah@example.com *(replace with your email)*  
+📧 aniatunnikmah123@gmail.com   
 💼 [Discord](https://discord.com/users/1265453850005864468) | [Instagram](https://www.instagram.com/prettyluvani/)
 
 ---
